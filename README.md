@@ -16,7 +16,7 @@ READABLE Vanity generation with real words (as opposed to other platforms)
 
 Integration with namespaces such as discord.bio (more coming soon)
 
-ShareX and Discord support, allowing you to easily shorten URLs from your favorite platform :)
+ShareX and [Discord](https://discord.com/oauth2/authorize?client_id=763542498236039258&scope=bot&permissions=19456) support, allowing you to easily shorten URLs from your favorite platform :)
 
 ### Credits
 
